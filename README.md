@@ -32,3 +32,4 @@ if __name__ == "__main__":
     ans = _sum(arr)
     # display sum
     print('Sum of the array is ', ans)
+    hjhkjhkh
