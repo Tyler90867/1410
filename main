@@ -1,0 +1,4 @@
+# main array
+users = [['user1', 'Cedar City', 3000], ['user2', 'Enoch', 2500]]
+user = users[0][0]
+print(user)
